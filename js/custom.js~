@@ -1,0 +1,3 @@
+$(function(){
+    $("#page-top").css("display","block");
+});

@@ -1,0 +1,32 @@
+<section id="ntevents">
+            <div class="container">
+                <div class="row title text-center">
+                    <h1 class="section-heading">Our Non-Technical Events</h1>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4 col-sm-6 col-xs-6">
+                        <a href="#" class="sankalanntevents-box sankalanntevents-1" data-toggle="modal" data-target=".sankalannteventsModal1">
+                            <div class="sankalanntevents-box-spacer"></div>
+                            <div class="sankalanntevents-box-caption">
+                                <h4 class="white">JUST A MINUTE</h4>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-4 col-sm-6 col-xs-6">
+                        <a href="#" class="sankalanntevents-box sankalanntevents-2" data-toggle="modal" data-target=".sankalannteventsModal2">
+                            <div class="sankalanntevents-box-spacer"></div>
+                            <div class="sankalanntevents-box-caption">
+                                <h4 class="white">LAN GAMING</h4>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-4 col-sm-12 col-xs-12">
+                        <a href="#" class="sankalanntevents-box sankalanntevents-3" data-toggle="modal" data-target=".sankalannteventsModal3">
+                            <div class="sankalanntevents-box-spacer"></div>
+                            <div class="sankalanntevents-box-caption">
+                                <h4 class="white">TURNCOAT</h4>
+                            </div>
+                        </a>
+                </div>
+            </div>
+        </section>
